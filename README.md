@@ -18,14 +18,13 @@ To use this jQuery script, add the following (or a similar) plugin in your HTML 
 ### i. js file (Standalone; jQuery with css in it)
 
 > JS
-> *[cwa_lightbox_(jquery with css)_v1.js](https://github.com/HashBrownTTM/jQuery-Lightbox-Gallery/blob/main/cwa_lightbox_(jquery%20with%20css)/javascript/cwa_lightbox_(jquery%20with%20css)_v1.js)* 
-
+> *[cwa_lightbox_bundle_v1.js](https://github.com/HashBrownTTM/jQuery-Lightbox-Gallery/blob/main/cwa_lightbox_(jquery%20with%20css)/javascript/cwa_lightbox_bundle_v1.js)* 
 
 Add the following code into your HTML <head> tag:
 
 ~~~
 <!-- js for lightbox gallery -->
-<script src="javascript/cwa_lightbox_(jquery with css)_v1.js" defer></script>
+<script src="javascript/cwa_lightbox_bundle_v1.js" defer></script>
 ~~~
 
 ### ii. js file and css file for the lightbox
