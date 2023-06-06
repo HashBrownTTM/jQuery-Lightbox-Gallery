@@ -1,3 +1,9 @@
+/*  
+    Created on : 05 June 2023
+    Author     : Tiego Masemola | Hashbrown_CWA
+    https://cw-arts.netlify.app/about-us
+*/
+
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
 
@@ -18,8 +24,17 @@ body
     font-family: "Asap", sans-serif;
 }
 
-h2{
-    margin: 10px;
+h3{
+    margin: -10px 0 10px 0;
+}
+
+h3 a, h4 a{
+    text-decoration: none;
+    color: #616336;
+}
+
+h3 a:hover, h4 a:hover{
+    text-decoration: underline;
 }
 
 /* GALLERY STYLING */
@@ -27,9 +42,11 @@ h2{
     width: 100%;
     height: auto;
     background-color: #bcbcbc;
+    padding: 10px;
+    border-radius: 10px;
 }
 
-.gallery-image{
+.cwa-lightbox-image{
     display: flex;
     float: left;
     margin: 5px;
