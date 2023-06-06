@@ -15,7 +15,7 @@ To use this jQuery script, add the following (or a similar) plugin in your HTML 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 ~~~
   
-### i. js file (Standalone; jQuery with css in it)
+### i. js file (Bundled; jQuery with css in it)
 
 > JS
 > *[cwa_lightbox_bundle_v1.js](https://github.com/HashBrownTTM/jQuery-Lightbox-Gallery/blob/main/cwa_lightbox_(jquery%20with%20css)/javascript/cwa_lightbox_bundle_v1.js)* 
