@@ -6,7 +6,7 @@ A simple jQuery lightbox gallery which is easy to implement in any web project.
 
 URL: <https://cwa-jquery-lightbox.netlify.app/>
 
-![Screenshot 2023-06-06 162907](https://github.com/HashBrownTTM/jQuery-Lightbox-Gallery/assets/93540733/11390e70-9f6e-432a-b21c-fd3cf3c43966)
+![lightbox-demo](https://github.com/HashBrownTTM/jQuery-Lightbox-Gallery/assets/93540733/d9fc40f0-5662-4027-ad1f-3dac5f0cf0c9)
 
 ## 2. Usage
 To use this jQuery script, add the following (or a similar) plugin in your HTML <head> tag
